@@ -1,0 +1,4 @@
+pyTelegramBotAPI>=4.0,<5
+Pillow>=9
+psycopg2-binary>=2.9
+redis>=4.5
